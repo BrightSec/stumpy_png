@@ -6,7 +6,7 @@ authors:
 
 dependencies:
   stumpy_core:
-    github: NeuraLegion/stumpy_core
+    github: BrightSec/stumpy_core
     branch: master
 
 development_dependencies:
